@@ -1,2 +1,2 @@
 # herve-loiret.github.io
-my page
+Please visit http://herve-loiret.github.io/
